@@ -6,8 +6,6 @@ Please star this repository to keep tracking the latest updates! PRs are welcome
 
 ## Papers
 
-### Conference Papers
-
 [ICML 2024 position] LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks. [[paper]](https://arxiv.org/pdf/2402.01817)
 
 [ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[paper]](https://openreview.net/pdf?id=DgLFkAPwuZ)
@@ -86,15 +84,13 @@ Please star this repository to keep tracking the latest updates! PRs are welcome
 
 [ACL 2023] Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[paper]](https://arxiv.org/pdf/2305.04091)
 
-### Arxiv Papers
-
 [arXiv 24.07] VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for VLMs. [[paper]](https://arxiv.org/pdf/2407.01863)
 
 [arXiv 24.06] NATURAL PLAN: Benchmarking LLMs on Natural Language Planning. [[paper]](https://arxiv.org/pdf/2406.04520)
 
 [arXiv 24.06] Exploring and Benchmarking the Planning Capabilities of Large Language Models. [[paper]](https://arxiv.org/pdf/2406.13094v1)
 
-[Arxiv 24.06] Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning. [[paper]](https://arxiv.org/pdf/2406.14283)
+[arXiv 24.06] Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning. [[paper]](https://arxiv.org/pdf/2406.14283)
 
 [arXiv 24.06] Chain of Thoughtlessness? An Analysis of CoT in Planning. [[paper]](https://arxiv.org/pdf/2405.04776)
 
@@ -108,6 +104,6 @@ Please star this repository to keep tracking the latest updates! PRs are welcome
 
 [arXiv 23.10] Can Large Language Models Really Improve by Self-critiquing Their Own Plans? [[paper]](https://arxiv.org/pdf/2310.08118)
 
-[Arxiv 23.02] On the planning abilities of large language models (a critical investigation with a proposed benchmark). [[paper]](https://arxiv.org/pdf/2302.06706)
+[arXiv 23.02] On the planning abilities of large language models (a critical investigation with a proposed benchmark). [[paper]](https://arxiv.org/pdf/2302.06706)
 
 [arXiv 22.03] Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [[paper]](
