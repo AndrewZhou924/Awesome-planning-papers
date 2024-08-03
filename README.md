@@ -106,4 +106,6 @@ Please star this repository to keep tracking the latest updates! PRs are welcome
 
 [arXiv 23.02] On the planning abilities of large language models (a critical investigation with a proposed benchmark). [[paper]](https://arxiv.org/pdf/2302.06706)
 
-[arXiv 22.03] Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [[paper]](
+[arXiv 22.03] Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [[paper]](https://arxiv.org/pdf/2201.07207)
+
+
